@@ -1,0 +1,12 @@
+name: MobKillHearts
+version: '${project.version}'
+main: mobkillhearts.mobkillhearts.MobKillHearts
+api-version: 1.18
+authors: [ ItsLukass ]
+prefix: "mkh"
+description: Once you kill a certain amount of mobs, you gain extra hearths
+commands:
+  Stats:
+    usage: /mkh stats
+    description: Shows your current stats
+    aliases: [ stats ]
