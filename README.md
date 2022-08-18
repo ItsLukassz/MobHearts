@@ -1,3 +1,2 @@
 # MobHearts
-A very shitty plugin, gives you health for killing mobs
-Not done yet
+This plugin is no where close to being finished, gives you health for killing mobs
